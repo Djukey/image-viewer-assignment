@@ -54,3 +54,5 @@ A window opens and displays the original image in RGB. Now, each time an image a
 - Mulla, R. (2022, March 20). Image processing with OpenCV and Python [Video]. YouTube. https://www.youtube.com/watch?v=kSqxn6zGE0c
 - Hummingbird. (2021, June 2). Color spaces in computer vision - RGB, HSV and LAB (theory + code) [Video]. YouTube. https://www.youtube.com/watch?v=MmBBVTniWFg
 
+IMAGE SOURCE : https://bookstore.gpo.gov/products/official-presidential-portrait-donald-trump-8x10-2017-2021 Official Presidential Portrait of Donald Trump (8x10) 2017-2021
+
