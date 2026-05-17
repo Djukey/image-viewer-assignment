@@ -16,9 +16,13 @@ The tool loads our choosen image (Donald Trump face) and will display a series o
 - HSV: Convert to Hue, Saturation, Value color space using **cv2.COLOR_BGR2HSV** which separates color(hue) from brightness(value), that is more robust to lighting changes.
 
 # REQUIREMENTS
+
 Python 3.13+
+
 OpenCV (opencv-python)
+
 Matplotlib 
+
 
 # Installation
 This project was developed using an Anaconda environment, run from the Windows Command Prompt. Personally, I think that OpenCV installed more reliably this way on Windows than with pip.
