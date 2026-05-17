@@ -32,6 +32,7 @@ Open command Prompt and run :
 
 If there is an error, place the image named photo.jpg.jpg in the same folder as image._viewer.py
 In command prompt, activate the environment and run the script : 
+
 **conda activate cv-week1**
 
 **python image_viewer.py**
