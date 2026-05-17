@@ -22,7 +22,8 @@ Matplotlib
 
 # Installation
 This project was developed using an Anaconda environment, run from the Windows Command Prompt. Personally, I think that OpenCV installed more reliably this way on Windows than with pip.
-Open command Prompt and run : 
+Open command Prompt and run :
+
 **conda create -n cv-week1 python=3.10**
 
 **conda activate cv-week1**
