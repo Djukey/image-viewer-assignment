@@ -23,14 +23,17 @@ Matplotlib
 # Installation
 This project was developed using an Anaconda environment, run from the Windows Command Prompt. Personally, I think that OpenCV installed more reliably this way on Windows than with pip.
 Open command Prompt and run : 
-**conda create -n cv-week1 python=3.10
-conda activate cv-week1
-conda install -c conda-forge opencv matplotlib**
+**conda create -n cv-week1 python=3.10**
+
+**conda activate cv-week1**
+
+**conda install -c conda-forge opencv matplotlib**
 
 If there is an error, place the image named photo.jpg.jpg in the same folder as image._viewer.py
 In command prompt, activate the environment and run the script : 
-**conda activate cv-week1
-python image_viewer.py**
+**conda activate cv-week1**
+
+**python image_viewer.py**
 
 A window opens and displays the original image inn RGB. Each time an  image appears, close it to see the next one. 
 
